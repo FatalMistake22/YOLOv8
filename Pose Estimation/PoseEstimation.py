@@ -1,4 +1,4 @@
-#Yasmin Tarek, Nadeen El-Sayed, Rama Selim, Zahra Hassan
+
 
 import cv2
 from ultralytics import YOLO
